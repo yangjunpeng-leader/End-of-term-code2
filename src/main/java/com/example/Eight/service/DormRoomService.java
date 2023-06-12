@@ -5,7 +5,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import com.example.Eight.entity.AdjustRoom;
 import com.example.Eight.entity.DormRoom;
 
-
 public interface DormRoomService extends IService<DormRoom> {
     //统计没有住满的宿舍数量
     public int notFullRoom();

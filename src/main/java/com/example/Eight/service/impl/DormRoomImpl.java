@@ -15,7 +15,6 @@ import javax.annotation.Resource;
 
 import static com.example.Eight.common.CalPeopleNum.calNum;
 
-
 @Service
 public class DormRoomImpl extends ServiceImpl<DormRoomMapper, DormRoom> implements DormRoomService {
 
