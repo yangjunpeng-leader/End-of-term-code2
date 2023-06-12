@@ -17,6 +17,7 @@ public class DormManagerController {
     @Resource
     private DormManagerService dormManagerService;
 
+
     /**
      * 宿管添加
      */
