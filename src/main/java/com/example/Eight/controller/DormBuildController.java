@@ -1,4 +1,4 @@
-package com.example.Eight.contorller;
+package com.example.Eight.controller;
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.example.Eight.common.Result;
